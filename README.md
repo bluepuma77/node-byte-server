@@ -1,2 +1,4 @@
 # node-byte-server
-Tiny web service to create a random response, with defined size and duration
+Tiny NodeJS web service to create a random content response, with defined size and duration
+
+`https://bytes.example.com/whatever?size=1024&time=1`
